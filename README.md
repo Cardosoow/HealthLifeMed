@@ -6,8 +6,6 @@ Este é um site institucional criado com HTML e CSS, apresentando uma clínica m
 🔗 **Visualizar online:**  
 👉 [https://cardosoow.github.io/HealthLifeMed/](https://cardosoow.github.io/HealthLifeMed/)
 
-![Preview do projeto](./cardosoow.github.io_HealthLifeMed_.png)
-
 ---
 
 ## 🌐 Tecnologias utilizadas
